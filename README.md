@@ -1,2 +1,2 @@
-# CS-61A---Berkeley
-This is a history of all my labs from CS 61A - The Structure and Interpretation of Computer Programs
+# CS-61A---Berkeley Equivalent
+This is a history of all my labs from CIS 61 - The Structure and Interpretation of Computer Programs
